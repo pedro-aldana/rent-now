@@ -1,37 +1,33 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# Rent Now
 
-First, run the development server:
+un sitio web diseñado para facilitar el alquiler de habitaciones, combinando tecnología de punta con una experiencia de usuario intuitiva y eficiente. Este proyecto busca simplificar la conexión entre arrendadores y arrendatarios, ofreciendo una solución moderna y confiable.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Demo
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Puedes ver el proyecto aqui https://rent-now-sigma.vercel.app/
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## Capturas de pantalla
 
-To learn more about Next.js, take a look at the following resources:
+![App Screenshot](https://zt7prs54ew.ufs.sh/f/MWxHR0BmEvpLUeBswaXRyxaeSV1h8fPHYQ3UCiNo6IXKjglT)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![App Screenshot](https://zt7prs54ew.ufs.sh/f/MWxHR0BmEvpLUMNaJiRyxaeSV1h8fPHYQ3UCiNo6IXKjglTn)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+![App Screenshot](https://zt7prs54ew.ufs.sh/f/MWxHR0BmEvpLUYwZa1RyxaeSV1h8fPHYQ3UCiNo6IXKjglTn)
+## Tecnologías Utilizadas
 
-## Deploy on Vercel
+- 🌐 Next.js 14: Aprovechando las Server Actions para optimizar el rendimiento y la experiencia del usuario.
+- 🎨 Shadcn UI: Componentes elegantes y funcionales que garantizan una interfaz moderna y profesional.
+- 🔐 Clerk: Implementación de autenticación robusta y segura.
+- 🛍 Tienda online: Facilitando la gestión de pagos para arrendadores y usuarios.
+- 💳 Stripe: Integración de una pasarela de pago confiable para transacciones rápidas y seguras.
+- 📊 Strapi: Un poderoso panel de administración para gestionar contenidos y datos de manera eficiente.
+- 💾 PostgreSQL con NeonDB: Base de datos escalable y confiable para almacenar información de forma segura.
+- 📱 Diseño responsivo: Optimizado para dispositivos móviles, garantizando accesibilidad desde cualquier lugar.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
 
